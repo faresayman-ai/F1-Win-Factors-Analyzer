@@ -97,7 +97,7 @@ f1-win-factors-analyzer/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/f1-win-factors-analyzer.git
+git clone https://github.com/faresayman-ai/f1-win-factors-analyzer.git
 cd f1-win-factors-analyzer
 
 # 2. Install dependencies
